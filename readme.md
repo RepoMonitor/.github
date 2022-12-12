@@ -1,5 +1,4 @@
-![RepoMonitor logo](https://github.com/RepoMonitor/RepoMonitor/blob/main/assets/Banner.png
-)
+![RepoMonitor logo](https://github.com/RepoMonitor/.github/blob/main/assets/Banner.jpg?raw=true)
 
 # RepoMonitor
 
@@ -16,6 +15,7 @@ Welcome to the RepoMonitor GitHub organization! We are a team dedicated to helpi
 - Twitter: [@RepoMonitor](https://twitter.com/RepoMonitor)
 - LinkedIn: [RepoMonitor](https://www.linkedin.com/company/repomonitor)
 - Instagram: [@RepoMonitor](https://www.instagram.com/repomonitor/)
+
 
 ## About RepoMonitor
 
