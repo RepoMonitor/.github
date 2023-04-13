@@ -1,16 +1,25 @@
-###### This is the profile repository and changelog for the RepoMonitor GitHub organization.
-
 # Changelog
 All changes made to the organization's readme file for the profile will be documented in this file.
 
+ ---
 
 
 ## [0.0.2] - 2023-4-13
 ### Added:
-- Added the following files to the readme file:
-    - Workflows folder 
-    - "update-copyrigth-year" [Workflow:](.github/workflows/update-copyright-year.yml) and update-copyright-year.sh This workflow will update the copyright year in the readme file. 
+- Added the following:
+    - Workflows folder with the following files:
+        - update-copyright-year.yml
+        - update-copyright-year.sh
+    - Update copyrigth year from 2022 to 2022 - 2023 in the readme file.
+### Removed:
+- Slack channel link from the readme file.  
+    - Slack will only be used for internal communication between official and feature developers for the project  and will not be listed in the readme file.
 
+### Updated:
+- Updated the following:
+    - The following sections in the readme file:
+        - NewsLetter
+        - Social Media
 ## [0.0.1] - 2022-01-01
 ### Added:
  - Added the following sections to the readme file:

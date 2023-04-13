@@ -16,8 +16,7 @@ Welcome to the RepoMonitor GitHub organization! We are a team dedicated to helpi
 - Twitter: [@RepoMonitor](https://twitter.com/RepoMonitor)
 - LinkedIn: [RepoMonitor](https://www.linkedin.com/company/repomonitor)
 - Instagram: [@RepoMonitor](https://www.instagram.com/repomonitor/)
-- Discord: [RemoMonitor](https://discord.gg/RepoMonitor)
-- Slack: [Slack community](https://repomonitor.slack.com)
+- Discord: [RepoMonitor](https://discord.gg/RepoMonitor)
 - Telegram: [Telegram group](https://t.me/RepoMonitor) 
 
 ---
@@ -25,6 +24,7 @@ Welcome to the RepoMonitor GitHub organization! We are a team dedicated to helpi
 
 RepoMonitor was developed in 2022 by a student who was dissatisfied with the market's lack of comprehensive repository monitoring tools. He set out to build a platform that would not only manage repository changes and updates, but would also provide vital insights and analysis to help developers and companies make educated decisions.
 
+---
 ## Our Mission
 
 At RepoMonitor, our mission is to empower developers and organizations with the tools and information they need to effectively manage and maintain their repositories. We believe that by providing real-time data and analysis, we can help teams improve their collaboration, productivity, and overall success.
@@ -41,7 +41,7 @@ Some of the key features of our platform include:
 - Customizable settings and preferences to fit your team's needs
 
 ---
-## News Letter
+## NewsLetter
 
 **[Sign up ](https://RepoMonitor.com/news/signup)** for our monthly newsletter to receive updates on our projects and the latest developments in the open source community.
 
@@ -49,10 +49,11 @@ Some of the key features of our platform include:
 ## Projects
 
 - [RepoMonitor ](https://github.com/RepoMonitor/RepoMonitor): A GitHub bot that automatically monitors repositories for issues and pull requests.
-- [RepoMonitor Bot Telegram ](https://github.com/RepoMonitor/RepoMonitor-Telegram): A GitHub/Telegram bot that automatically monitors repositories for issues and pull requests.
+- [RepoMonitor Bot Telegram ](https://github.com/RepoMonitor/RepoMonitor-Telegram): A GitHub/Telegram bot that automatically monitors repositories for issues and pull requests. 
+
 
 ---
-Copyright 2022 [RepoMonitor](https://repomonitor.com)
+Copyright 2022 - 2023 [RepoMonitor](https://repomonitor.com)
 
 
 <!--
@@ -60,4 +61,6 @@ Copyright 2022 [RepoMonitor](https://repomonitor.com)
 ![RepoMonitor logo](https://repomonitor.com/assets/logo.png)
 
 ![RepoMonitor dashboard screenshot](https://repomonitor.com/assets/dashboard-screenshot.png)
+
+- Slack: [Slack community](https://repomonitor.slack.com)
 -->
